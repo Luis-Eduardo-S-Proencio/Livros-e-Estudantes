@@ -1,3 +1,2 @@
-let aluguel = [];
-
-module.exports = aluguel
+let alugueis = []
+module.export = alugueis;

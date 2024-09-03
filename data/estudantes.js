@@ -1,3 +1,2 @@
-let estudante = []
-
-module.exports = estudante
+let estudantes = []
+module.export = estudantes;

@@ -1,3 +1,2 @@
-let livro = [];
-
-module.exports = livro
+let livros = []
+module.export = livros;
